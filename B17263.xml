@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse against 1. drunkenness, 2. swearing &amp; cursing published (pursuant to His Majesty's injunctions) to suppress debauchery and profaneness / by William Assheton ...</title>
+            <author>Assheton, William, 1641-1711.</author>
+         </titleStmt>
+         <extent>Approx. 50KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17263</idno><idno type="EEBO-CITATION">18519004</idno>
+  <idno type="VID">205209</idno>
+  <idno type="EEBO-PROQUEST">2248547992</idno>
+  
+            <idno type="STC">Wing A4031</idno>
+            <idno type="OCLC">18519004</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205209)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1646:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse against 1. drunkenness, 2. swearing &amp; cursing published (pursuant to His Majesty's injunctions) to suppress debauchery and profaneness / by William Assheton ...</title>
+                  <author>Assheton, William, 1641-1711.</author>
+               </titleStmt>
+               <extent>[2], 5-48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Braddyll, and are to be sold by Richard Sympson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, with some loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sins.</term>
+               <term type="topical_term">Temperance and religion --  England.</term>
+               <term type="topical_term">Swearing --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205209:1"/>
+            <p>A DISCOURSE Against
+<list>
+                  <item>1. <hi>Drunkenness.</hi>
+                  </item>
+                  <item>2. <hi>Swearing</hi> &amp; <hi>Cursing.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Published (Pursuant to his <hi>Majesty</hi>'s Injunctions), To Suppress <hi>Debauchery</hi> and <hi>Profaneness,</hi>
+            </p>
+            <p>By <hi>WILLIAM ASSHETON</hi> D.D. Rector of <hi>Beckenham</hi> in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Braddyll,</hi> and are to be Sold by <hi>Richard Sympson,</hi> at the <hi>Three</hi> Trouts in St. <hi>Paul</hi>'s Church-Yard. 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:205209:2"/>
+            <pb n="5" facs="tcp:205209:2"/>
+            <head>A DISCOURSE Against <hi>Drunkenness.</hi>
+            </head>
+            <p>THeir Majesties being sensible, That <hi>as Righteousness exalt<g ref="char:EOLhyphen"/>eth a Nation, so Sin is a Reproach to any People;</hi> and being desirous to Reform the Lives and Manners of all their Subjects, have commanded the Clergy to Preach frequently against those particular Sins and Vices, which are most pre<g ref="char:EOLhyphen"/>vailing in this Realm, <hi>viz.</hi> Against <hi>Blasphemy, Swearing</hi> and <hi>Cursing;</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Perjury;</hi> against <hi>Drunkenness;</hi> against <hi>Prophanation of the Lords Day.</hi>
+            </p>
+            <p>In Obedience to the Royal Com<g ref="char:EOLhyphen"/>mand, I lately Published a short Treatise against <hi>Blasphemy.</hi> Wherein I endeavoured to convince these <hi>He<g ref="char:EOLhyphen"/>ctors</hi> of <hi>Satan,</hi> of the <hi>Rudeness</hi> and
+<pb n="6" facs="tcp:205209:3"/>
+               <hi>Danger</hi> of <hi>Atheistical</hi> Discourse. And shall now proceed, through Divine Assistance, against another Extra<g ref="char:EOLhyphen"/>vagance mentioned in the King's Letter, <hi>viz.</hi> The Sin of <hi>Drunken<g ref="char:EOLhyphen"/>ness.</hi> Or, as the Act of Parliament calls it, <hi>The Odious and Loathsom Sin of Drunkenness.</hi>
+            </p>
+            <p>Against which detestable Practice, I shall discourse in this Method.</p>
+            <list>
+               <item>1. I shall explain the Nature of this Sin, By shewing what is meant by <hi>Drunkenness.</hi>
+               </item>
+               <item>2. I shall declare the Greatness of this Sin; the aggravating Circum<g ref="char:EOLhyphen"/>stances, and the sad Consequences of it. Which I shall enforce as Motives to avoid it.</item>
+               <item>3. I shall examine the noted Apo<g ref="char:EOLhyphen"/>logies for this Sin: or the usual pre<g ref="char:EOLhyphen"/>tences which are made for the Com<g ref="char:EOLhyphen"/>mission of it.</item>
+            </list>
+            <p n="1">1. What is meant by <hi>Drunkenness.</hi>
+            </p>
+            <p>
+               <hi>Drunkenness,</hi> is an <hi>irregular, im<g ref="char:EOLhyphen"/>moderate use of Drink.</hi> We are there<g ref="char:EOLhyphen"/>fore to examine; What use of Drink is irregular and immoderate; and then we shall understand the Nature of this sin.</p>
+            <p>In order to our Inquiry I
+<pb n="7" facs="tcp:205209:3"/>must premise this general Truth.</p>
+            <p>Every Thing is so far regular and moderate, as it promotes and encou<g ref="char:EOLhyphen"/>rageth that end for which it was de<g ref="char:EOLhyphen"/>signed by Almighty God. But when it hinders and obstructs it, it is irre<g ref="char:EOLhyphen"/>gular and immoderate.</p>
+            <p>Now the known Ends of Drink are these; <hi>The Digestion of our Meat, Chearfulness and Refreshment of our Spirits, and the Preserving of Health.</hi> And whil'st it contributes to those Ends, so far <hi>Drinking</hi> is regular and moderate; but when it destroys them, 'tis irregular and sinful.</p>
+            <p>When therefore Wine, or any o<g ref="char:EOLhyphen"/>ther Drink, is taken in such excess; that, by over-loading Nature, <hi>It hinders Digestion; drowns and suffo<g ref="char:EOLhyphen"/>cates the Spirits; disorders the Facul<g ref="char:EOLhyphen"/>ties; hinders the free Ʋse of Reason; and thereby makes Men unfit for Busi<g ref="char:EOLhyphen"/>ness, and indisposeth them either for Civil or Religious Duties;</hi> then, and in such Cases, its use is irregular and immoderate, and consequently sinful.</p>
+            <p>From hence you may observe,</p>
+            <p>That to be Drunk, is not only to be under the visible effects of Drink; to be made the Observation, if not the
+<pb n="8" facs="tcp:205209:4"/>Scorn, of others. A Man is not only so, when he is liable to the Statute; But a Man is so far intemperate, as to deserve that harsh Name, when he transgresseth the Laws of God, and right Reason, in the forementioned Instances.</p>
+            <p n="2">2. I shall declare the greatness of this Sin; the aggravating Circum<g ref="char:EOLhyphen"/>stances, and the sad Consequences of it.</p>
+            <p>The true Notion of Sin (as the Apostle instructs us) is this. <hi>'Tis à Transgression of the Law.</hi> Sin is a Breach and Violation of the Divine Law. The right Method therefore to be convinced of the heinousness of this or any other Sin, it is to view it in the Glass of God's Law: <hi>To the Law, and to the Testimony.</hi> Consult the Holy Scripture, consider those repeated Woes, which are denoun<g ref="char:EOLhyphen"/>ced against the Drunkard, in the Bi<g ref="char:EOLhyphen"/>ble, and you will then fully be con<g ref="char:EOLhyphen"/>vinced of the Danger of this Practice.</p>
+            <p>
+               <hi>Wo unto them that rise up early in the Morning, that they may follow strong Drink; that continue until Night, till Wine enflame them,</hi> Isaiah 5.11, 12.</p>
+            <p>
+               <hi>Wo unto them that are mighty to
+<pb n="9" facs="tcp:205209:4"/>drink Wine; and Men of strength to mingle strong Drink,</hi> Verse 22.</p>
+            <p>
+               <hi>Who hath Wo, who hath Sorrow; They that tarry long at the Wine, they that go to seek mixt Wine,</hi> Prov. 23.29, 30.</p>
+            <p>
+               <hi>Take heed to your selves, lest at any time your Hearts be over-charged with Drunkenness — and so that Day come upon you unawares;</hi> Luke 21.34.</p>
+            <p>
+               <hi>Let us walk honestly as in the Day; not in Rioting and Drunkenness,</hi> Rom. 13.13.</p>
+            <p>But besides these Woes and Threat<g ref="char:EOLhyphen"/>nings in the general; it will, I hope, more effectually disswade you from this Vice, whilst I particularly ex<g ref="char:EOLhyphen"/>plain the sad Consequents of it, in this Four-fold Respect.</p>
+            <p n="1">1. To the <hi>Soul.</hi> 2. The <hi>Body,</hi> 3. The <hi>Estate.</hi> 4. <hi>Good Name.</hi>
+            </p>
+            <p n="1">1. Drunkenness is Destructive to the <hi>Soul.</hi> And that <hi>Two</hi> Ways.</p>
+            <p n="1">1. By exposing it to ruin and eter<g ref="char:EOLhyphen"/>nal Damnation.</p>
+            <p n="2">2. By being the Occasion of ma<g ref="char:EOLhyphen"/>ny other Sins, which have the same dismal Effect.</p>
+            <p n="1">1. Drunkenness doth expose the Soul to eternal Damnation.</p>
+            <pb n="10" facs="tcp:205209:5"/>
+            <p> Indeed all Sin is deadly and dam<g ref="char:EOLhyphen"/>ning <hi>(For the Wages of Sin is Death)</hi> but this of Drunkenness is most expresly threatned by the Spirit of God. Ye are admonished, <hi>Rom.</hi> 8.13. <hi>That if ye live after the Flesh, ye shall Dye.</hi> If ye will resolve to indulge your Sensual Inclinations, and will lay no restraint upon your Carnal Desires; but when Nature prompts you will gratifie your Senses to the utmost, in Meats and Drinks and other Pleasures: If no Law of God nor Man can con<g ref="char:EOLhyphen"/>troul you; <hi>Ye shall dye.</hi> As Lawless Persons, ye shall be condemned for such Extravagance.</p>
+            <p>Now amongst these Works of the Flesh. St. <hi>Paul</hi> expresly mentions Drunkenness, <hi>Gal.</hi> 5.21. <hi>Murders, Drunkenness, Revellings, and such like.</hi>
+            </p>
+            <p>And then concludes his Catalogue with this awakening Censure. <hi>Of the which I tell you before, as I have also told you in time past, That they which do such things, shall not inherit the Kingdom of God.</hi> And the same <hi>Apostle,</hi> 1 <hi>Cor.</hi> 6.10. repeats the same Censure. <hi>Nor Drunkards. nor Revi<g ref="char:EOLhyphen"/>lers shall inherit the Kingdom of God.</hi>
+            </p>
+            <p>Heaven is a Place of Holiness and
+<pb n="11" facs="tcp:205209:5"/>Purity; and no unclean, Swinish Crea<g ref="char:EOLhyphen"/>ture shall enter there.</p>
+            <p n="2">2. <hi>Drunkenness</hi> is destructive to the Soul, by exposing it to all sorts of Temptations; and by being the Occasion of many other Sins.</p>
+            <p>
+               <hi>Immoderate Anger, Fury and Re<g ref="char:EOLhyphen"/>venge, Murders, Adulteries, &amp;c.</hi> are the Noted Consequences of this Sin. These dismal effects of Intemperance have been writ in bloody Characters in all Parts of the World. And in<g ref="char:EOLhyphen"/>deed what Sin is so heinous, which a Man intoxicated with Wine may not commit? The Reason is plainly this; <hi>Erranti nullus Terminus.</hi> An Intem<g ref="char:EOLhyphen"/>perate Man is under no Conduct. He is neither under God's Keeping, nor his own. He hath quenched Gods Spirit, whilst he inflamed his own.</p>
+            <p>He hath forfeited God's Provi<g ref="char:EOLhyphen"/>dence and Protection, by going out of his Way, by engaging in an irre<g ref="char:EOLhyphen"/>gular, unlawful Practice.</p>
+            <p>Indeed whilst we are in Gods way, he hath promised to protect us. <hi>He shall give his Angels Charge over thee, to keep thee in all thy Ways — i. e.</hi> Whilst we are doing of our Duty:
+<pb n="12" facs="tcp:205209:6"/>God hath promised to preserve us, both from Sin, and from Danger.</p>
+            <p>But when by our Intemperance we wander into the broad Road; we are then in the <hi>Power of the Prince of the Air, who Ruleth in the Hearts of the Children of Disobedience.</hi> And whither this furious Fiend may drive us, God only knows. For the malice of the Devil is boundless; who being miserable himself, envies Man's Happiness. And when he hath engaged us in a sinful Course; unless God restrain us, he'll inevitably bring us to the Depth of Ruin.</p>
+            <p>Hearken therefore, O ye Intem<g ref="char:EOLhyphen"/>perate Persons, and be wise in time. You little consider what you do, whil'st ye indulge your selves in these Excesses.</p>
+            <p>For when Men have forsaken God, and have cast his fear behind their backs, when they have grieved and quenched his Holy Spirit; it may then be just with God to leave them to themselves, to commit all un<g ref="char:EOLhyphen"/>cleanness with greediness.</p>
+            <p>O the amazing Circumstances in which some Persons, have been in<g ref="char:EOLhyphen"/>volved by one single Act of Intem<g ref="char:EOLhyphen"/>perance.</p>
+            <pb n="13" facs="tcp:205209:6"/>
+            <p> They have done that in a De<g ref="char:EOLhyphen"/>bauch, which hath cost them their Lives, forfeited their Estates, and ruined their Posterity: And without the infinite mercy of God, have Damned and Ruined their Souls to all Eternity.</p>
+            <p>These are sad Things to Repeat; and O that you would be so prudent as to learn and be admonished by the Examples of others.</p>
+            <p>Possibly you will tell me, The re<g ref="char:EOLhyphen"/>cital of these Examples, is not perti<g ref="char:EOLhyphen"/>nent to your Case.</p>
+            <p>You having not the least appre<g ref="char:EOLhyphen"/>hension of being guilty of such Ex<g ref="char:EOLhyphen"/>travagance.</p>
+            <p>If upon occasion, you take a libe<g ref="char:EOLhyphen"/>ral Dose; you design nothing else, but the chearing of your Spirits; the diverting your self with good Com<g ref="char:EOLhyphen"/>pany; and the obliging of your Friends.</p>
+            <p>The Reply to this is obvious, and not to be evaded.</p>
+            <p>You say you design only thus or thus. But, Alas! When you are once engaged in such Excesses, you little know what you may design before you part. We have a blunt Proverb,
+<pb n="14" facs="tcp:205209:7"/>
+               <hi>When the Wine is in, the Wit is out.</hi> From whence you may as blunt<g ref="char:EOLhyphen"/>ly infer; That a Drunken Man is out of his Wits. He hath lost for a time, the Exercise of his Rea<g ref="char:EOLhyphen"/>son, and is only acted by a depraved Imagination. And when fancy is rampant, and sensual Inclinations are let loose; you little know what ad<g ref="char:EOLhyphen"/>vantage the Devil can make of such a juncture; Or, whither the malice of that hellish Fiend may drive you. In short, <hi>What hath been, may be.</hi> Others, as prudent and as resolved as your selves, have been ruined by a Debauch; and unless God shall re<g ref="char:EOLhyphen"/>strain you, so may you. God hath been patient, and hath hitherto spa<g ref="char:EOLhyphen"/>red you. No such thing hath yet happened to you. But take heed of despising the Riches of his Goodness. Amend and Reform, <hi>lest a worse thing come unto you. Let the Patience and Goodness of God, lead you to Re<g ref="char:EOLhyphen"/>pentance.</hi>
+            </p>
+            <p>God grant, That the sad Exam<g ref="char:EOLhyphen"/>ples of others, may make Impression upon you, and may contribute to your Reformation.</p>
+            <p n="2">2. Drunkenness is Destructive to the <hi>Body.</hi>
+            </p>
+            <pb n="15" facs="tcp:205209:7"/>
+            <p> Tho' the generality of Men do sadly neglect their immortal Souls, and are very little concern'd, either what their condition is at present; or how they shall be disposed on to all Eter<g ref="char:EOLhyphen"/>nity; yet there are few Men so stu<g ref="char:EOLhyphen"/>pid, but they are very thoughtful for the Well-fare of their Bodies.</p>
+            <p>All the hurry and labour in this World, which we call Business, it is to administer to the Wants and Plea<g ref="char:EOLhyphen"/>sures of the Body, 'Tis to provide, <hi>what we must eat, what we must drink, and wherewithal we must be Cloathed?</hi> Or in some other Instance, 'tis to procure suitable Accomodations for the Body. Of this we are so sensible, that we are very uneasie under the want of any of these Things.</p>
+            <p>If the Body is Diseased or Wounded, or under any pressing Pain, we are very apprehensive of such Disorder, and how to remove it.</p>
+            <p>'Tis therefore an undeniable in<g ref="char:EOLhyphen"/>stance of the deceitfulness of Sin; That those Men who are so in Love with their Bodies; and so fond of Bodily Pleasures, can yet be so stu<g ref="char:EOLhyphen"/>pid, as to indulge themselves in so destructive a Practice.</p>
+            <pb n="16" facs="tcp:205209:8"/>
+            <p> For the Truth of this, if dear bought experience hath not convin<g ref="char:EOLhyphen"/>ced you, I appeal to your Physitian. Who if knowing and faithful, will not sail to admonish you of the mis<g ref="char:EOLhyphen"/>chiefs of these Excesses. He will ho<g ref="char:EOLhyphen"/>nestly tell you; That <hi>Feavers, Drop<g ref="char:EOLhyphen"/>sies, Consumptions, Stone, Gout,</hi> &amp;c. with the rest of that sad Catalogue, are the noted Effects of such De<g ref="char:EOLhyphen"/>bauches.</p>
+            <p>And tho these Excesses are not al<g ref="char:EOLhyphen"/>ways mortal, and the danger perhaps not great for the present; yet be<g ref="char:EOLhyphen"/>ing often repeated, they do so wea<g ref="char:EOLhyphen"/>ken Nature, that they lay the foun<g ref="char:EOLhyphen"/>dation of many Chronical Distem<g ref="char:EOLhyphen"/>pers. Indeed those who are of a vi<g ref="char:EOLhyphen"/>gorous, robust Constitution, may hold it out the longer; but per<g ref="char:EOLhyphen"/>haps, in a little while they will find their mistake; when they groan un<g ref="char:EOLhyphen"/>der the burden of a decrepit old Age.</p>
+            <p>But there are other instances, be<g ref="char:EOLhyphen"/>sides inward Diseases, whereby Drun<g ref="char:EOLhyphen"/>kenness is fatal, and destructive to the Body.</p>
+            <p>How often are such Persons en<g ref="char:EOLunhyphen"/>gaged in Quarrels, and breath their last at the Point of a Sword? A Fall
+<pb n="17" facs="tcp:205209:8"/>from their Horse, or down a Preci<g ref="char:EOLhyphen"/>pice may suddenly send them into another World. Or, if it come not to such extremity, yet either by Fight<g ref="char:EOLhyphen"/>ing, or some other Accident, they are so mauled and bruised, that they lose a Limb; or carry the Mark of their Intemperance to their Grave. So true is that expostulation of <hi>Solo<g ref="char:EOLhyphen"/>mon: Who hath Wo? Who hath Sor<g ref="char:EOLhyphen"/>row? Who hath Contentions? Who hath Babling? Who hath Wounds with<g ref="char:EOLhyphen"/>out Cause? Who hath Redness <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eyes? They that tarry long at the Wine, they that go to seek mixt Wine,</hi> Prov. 23.29, 30.</p>
+            <p n="3">3. Drunkenness is destructive to an <hi>Estate.</hi>
+            </p>
+            <p>And that two ways.</p>
+            <p n="1">1. Immediately by the Expences of such Debauches.</p>
+            <p>For tho a large and plentiful Estate is not ordinarily wasted by down<g ref="char:EOLhyphen"/>right Drinking: Yet Men of mo<g ref="char:EOLhyphen"/>derate Fortunes, especially those who live by their Labour, do often pinch for these Excesses.</p>
+            <p>'Tis a thing much to be lamented, what Want and Beggary is often brought upon a Family by this Tip<g ref="char:EOLhyphen"/>pling
+<pb n="18" facs="tcp:205209:9"/>and Drinking. 'Tis a perfect. Shame, and worthy the Correction of the Publick Magistrate; That a Working Man should be so Extra<g ref="char:EOLhyphen"/>vagant, as to spend the Labour of Six Days upon the Seventh; Which the poor Wife and Children, must starve and pinch for all the Week after. And when he, whose Duty it was by his honest labour to provide for his Family, hath either drunk himself to Death, or, for Debt and Disorder is thrown into a Goal; then the Parish must bear the burden, and his honest Neighboure must cark and care, be Tax't and A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>est for his Extravagance.</p>
+            <p n="2">2. Drunkenness chiesly doth ruin an Estate, mediately and consequen<g ref="char:EOLhyphen"/>tially by engaging in those Practices which are destructive of it. I shall insist only on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hree, <hi>viz. Idleness, Whoring</hi> and <hi>Gaming.</hi>
+            </p>
+            <p n="1">1. Idleness, <hi>The hand of the dili<g ref="char:EOLhyphen"/>gent maketh Rich,</hi> Prov. 10.4.</p>
+            <p>There is a provident Care and Industry supp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed both for the get<g ref="char:EOLhyphen"/>ting and keeping an Estate.</p>
+            <p>Now of all Men in the World, a Drunkard is not fit for business; and
+<pb n="19" facs="tcp:205209:9"/>is seldom disposed to mind either his own or other Mens Concerns. <hi>By</hi> which neglect it hath often hapned, that vast Estates, in a little time, have been sunk into a narrow Com<g ref="char:EOLhyphen"/>pass.</p>
+            <p>We have a noted Proverb, <hi>The Master's Eye makes his Horse fat;</hi> and so it doth his Field and the rest of his Concerns. But when a Man is so stupid, as to mind nothing but his Pleasures, and leaves his Business to be managed by other Men; they commonly so manage him, That <hi>the Man becomes the Master.</hi> For having sherkt and sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fted for a while; he's at last made a Property; and worm'd out of all. So true is that of <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> Prov. 23.21. <hi>The Drunkard and the Glutton shall come to Poverty: and Drowsiness shall Cloath a Man with Rags.</hi>
+            </p>
+            <p n="2">2. <hi>Whoring.</hi> That this is an Ef<g ref="char:EOLhyphen"/>fect of Drunkenness, <hi>Solomon</hi> in<g ref="char:EOLhyphen"/>forms us. <hi>Thine Eyes shall b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld strange Women,</hi> Prov. 23.23. And St. <hi>Paul</hi> hath made the Observation; First, <hi>Riotting and Drunkenne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> then <hi>Chambering and Wantouness,</hi> Rom. 13.13.</p>
+            <pb n="20" facs="tcp:205209:10"/>
+            <p> Now he who follows su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h light and wanton Women, will easily be instructed to dispose of an Estate. <hi>For by means of a whorish Wom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, a Man is brought to a pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of Bread,</hi> Prov. 6.26.</p>
+            <p>When one of these <hi>Dulcibellas</hi> hath seized a si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Gu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; with what Art will sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manage him? How dextrously will she ply him for <hi>this</hi> and for <hi>that,</hi> and whilst he hath <hi>any thing,</hi> she will always be wan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>something,</hi> and will never leave him, till she hath reduced him to the ex<g ref="char:EOLhyphen"/>treamest Beggary.</p>
+            <p>The Decays and Ruins of many brave and noble <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amilies, is too sad a Demonstration of his Truth.</p>
+            <p n="3">3. <hi>Gaming.</hi> I am not so unchari<g ref="char:EOLhyphen"/>table as to think all Games of Chance absolutely unla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e are Oc<g ref="char:EOLhyphen"/>casions, Times an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seasons, when such Diversion is very allowable. But Gaming, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of Drinking (as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is ordin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rily mana<g ref="char:EOLhyphen"/>ged) is a very pe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, de<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uctive Practice.</p>
+            <p>When a Set of designing <hi>Bullies</hi> have drunk a young H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir to a certain pitch, and have wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med him into a
+<pb n="21" facs="tcp:205209:10"/>compliance: When he begins to see double, and hath lost both his Memo<g ref="char:EOLhyphen"/>ry and Apprehension; what work will they then make with such a Prize? How dextrously will they plume him with Cogs and false Dice? And be<g ref="char:EOLhyphen"/>sides his loose Money, if they can but Spirit him to such a height (as sometimes they do) they'l measure his Acres, and take an Estimate of his Rents and Mannors.</p>
+            <p>Which is such an Egregious piece of folly; That a Man should so part with an Estate; without so much as the pleasure of spending it. That he should only shake it out of his Sleeve. I say, This is so mean and contemptible; that it would sharpen my Stile; and raise a just Indigna<g ref="char:EOLhyphen"/>tion to Declaim against it.</p>
+            <p n="4">4. Drunkenness is destructive to a good Name. <hi>A good Name</hi> (saith <hi>So<g ref="char:EOLhyphen"/>lomon</hi>) <hi>is better than precious Oynt<g ref="char:EOLhyphen"/>ment; Eccl.</hi> 7.1. more useful in it self, and more pleasing to others. 'Tis that which enables us to be ser<g ref="char:EOLhyphen"/>viceable to the World; for indeed without it, we are dead, whil'st we are alive. 'Tis therefore of very great Consequence, to secure a Re<g ref="char:EOLhyphen"/>putation;
+<pb n="22" facs="tcp:205209:11"/>that we may be valued and esteemed. Whereby we shall be enabled to bring the more Glory to God; more good to our selves, and more Benefit to others.</p>
+            <p>Now there is scarce any Sin, which sooner lessens a Man's Reputation, and renders him mean and contemp<g ref="char:EOLhyphen"/>tible than this of Drunkenness.</p>
+            <p>For besides that it is of a Level<g ref="char:EOLhyphen"/>ling Nature, and degrades a Man below himself; and thereby quali<g ref="char:EOLhyphen"/>fies the meanest to be fit Company for the Greatest; There is this fur<g ref="char:EOLhyphen"/>ther mischief attend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it. By rarify<g ref="char:EOLhyphen"/>ing the Spirits, and exalting the Fancy; it many times makes a Man so vain and impertinent; So Apish and Trifling in his Behaviour; that he becomes not only a Shame to himself and his Family; but the con<g ref="char:EOLhyphen"/>tempt of his very Servants and De<g ref="char:EOLhyphen"/>pendants.</p>
+            <p>The Sarcastical Jeers▪ and Dim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nishing Expressions; which on such an occasion, the most underling Fel<g ref="char:EOLhyphen"/>lows will bestow upon their Betters, are too notorious to be repeated.</p>
+            <p>And now being thus plainly and faithfully admonished. I hope for the
+<pb n="23" facs="tcp:205209:11"/>future, those who have been guilty, will be more careful of so destructive a Practice.</p>
+            <p>You have heard how it is destru<g ref="char:EOLhyphen"/>ctive. (1) To the <hi>Soul.</hi> Eternal Damnation is denounced against it. <hi>Drunkards shall not inherit the King<g ref="char:EOLhyphen"/>dom of God.</hi> It likewise exposeth a Man to all sorts of Temptations; and is the sad occasion of many o<g ref="char:EOLhyphen"/>ther Sins.</p>
+            <p n="2">2. To the <hi>Body;</hi> and that not on<g ref="char:EOLhyphen"/>ly by inward Distempers and Disea<g ref="char:EOLhyphen"/>ses: But also outward Accidents and Calamities. Whereby Men of Health and Vigorous Constitutions are un<g ref="char:EOLhyphen"/>fortunately cut off in the midst of their Days.</p>
+            <p n="3">3. To an <hi>Estate.</hi> Not only by the Expences of it. But chiefly it doth an Estate, by engaging in those Practices which are destructive of it. I instanced in Three, <hi>Idleness, Whoring, Gaming.</hi> 4. to a <hi>Good Name.</hi> It makes a Man mean and contemptible, sleighted and disregarded.</p>
+            <p>If therefore you value your Wel<g ref="char:EOLhyphen"/>fare in these Capacities, take heed to your Ways. Shun all occasions of such Intemperance.</p>
+            <pb n="24" facs="tcp:205209:12"/>
+            <p> And the more effectually to forti<g ref="char:EOLhyphen"/>fie your Resolutions, I shall briefly examine the noted Apologies for this Sin; and the usual pretences which are made for the Commission of it.</p>
+            <p n="1">1. 'Tis a noted Apology for <hi>Drink<g ref="char:EOLhyphen"/>ing; The refreshing of the Spirits, by laying aside Cares and Business. To be always serious, and to keep the Bow con<g ref="char:EOLhyphen"/>stantly bent, is a little too severe▪ and indeed scarce consistent with the Weak<g ref="char:EOLhyphen"/>ness of Human Nature. And there<g ref="char:EOLhyphen"/>fore, say they, when a Knot of honest Fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ows are met together; why may they not then for a while banish Sorrow, and take the freedom of a liberal Glass▪</hi>
+            </p>
+            <p>
+               <hi>To This I Answer.</hi>
+            </p>
+            <p>I shall not s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruple to acknowledge, that the Fruit of the Vine was not only c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eated for meer necessity, but for delight. The Royal <hi>Psalmist</hi> ha<g ref="char:EOLhyphen"/>ving composed a Hymn, in admirati<g ref="char:EOLhyphen"/>on of the order and us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fulness of the Creatures; amongst others he tell us; That the Earth by the Bene<g ref="char:EOLhyphen"/>fit of fruitful Showers, <hi>produceth Wine, which maketh glad the Heart of Man;</hi> Psal. 104.15. <hi>i. e.</hi> which chears the drooping and dejected Spirits.</p>
+            <pb n="25" facs="tcp:205209:12"/>
+            <p> Hence it is the Advice of <hi>Solomon. Prov.</hi> 31.6, 7. <hi>Give strong Drink to him that is ready to perish, and Wine to those who be of heavy Hearts. Let him drink and forget his Poverty, and remember his misery no more.</hi>
+            </p>
+            <p>Upon which words; a learned and pious Prelate of our Church hath this Paraphrase. <q>When a poor Wretch is in danger to perish, for want of the necessary supports of Life, or is oppressed With Grief and Sorrow in any other deplora<g ref="char:EOLhyphen"/>ble Condition. Then bring forth plenty of Wine, and set it before such a disconsolate Person: Let him drink freely till he hath chear<g ref="char:EOLhyphen"/>ed his heart, and raised his droop<g ref="char:EOLhyphen"/>ing Spirits; and be able to think of something else, beside his Po<g ref="char:EOLhyphen"/>verty and Misery; nay, till he be so merry; as quite to forget the cares and wearisom▪ Labours, that it brings upon him.</q>
+            </p>
+            <p>It is not therefore to be deny'd, but that a liberal Use of Wine, to some Persons, and on some occasions is very allowable.</p>
+            <p>But it commonly happens there is an error and mistake in the Applica<g ref="char:EOLhyphen"/>tion.
+<pb n="26" facs="tcp:205209:13"/>For those who have most occa<g ref="char:EOLhyphen"/>sion for it, do seldom use it. Such as are the <hi>Poor,</hi> the <hi>Melancholy,</hi> and <hi>Dejected.</hi> But on the contrary; There are a sort of Sanguine, Jolly Fellows, who both upon a natural and moral Account, have least need of it; and yet these have usually the greatest share: And as one well expresseth it: <q>These frequently take it in such large Proportion, that it makes them not only forget their Sorrows, if they had any, but themselves and their Business too.</q>
+            </p>
+            <p>In short. A man may lawfully drink to refresh his Spirits, but not to drown or oppress them. He may lay aside his Business, but not neg<g ref="char:EOLhyphen"/>lect it.</p>
+            <p n="2">2. Another pretence for Drinking is <hi>preserving of Friendship; and the maintaining good Neighbourhood.</hi>
+            </p>
+            <p>As to this, I do likewise grant: That prudent moderate Drinking, may be serviceable to these Ends.</p>
+            <p>But that which is immoderate and in excess, is the ruin of good Society, and the very bane of Conversation.</p>
+            <p>For when Men's Spirits are once exalted; and that they are got, as
+<pb n="27" facs="tcp:205209:13"/>we Phrase it, into their Altitudes: 'tis not easie to imagine what extra<g ref="char:EOLhyphen"/>vagancies they may then commit. And indeed we have small encou<g ref="char:EOLhyphen"/>ragement to expect it otherwise. For when the Laws of Nature and Reli<g ref="char:EOLhyphen"/>gion are broken, those of Friendship will be little regarded.</p>
+            <p>The Quarrels, Duels and Murders which in the heat of Wine, have too ofter hapned amongst the dearest Friends, are too sad a Confirmation of this Truth.</p>
+            <p n="3">3. Another Excuse for immoderate Drinking, is, <hi>Compliance with Custom, and the avoiding of Reproach.</hi>
+            </p>
+            <p>
+               <hi>Those who are extravagant them<g ref="char:EOLhyphen"/>selves, are too apt to promote these Ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sses in others. And being very ingeni<g ref="char:EOLhyphen"/>ous to gain Proseli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, if other Methods will not provail, then they upbraid them with affectation and singularity. Which is so mean and unpleasing a Character that Men of generous Inclinations and g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntile Behaviour cannot easily digest it. And are too often tempted, to strain their Consciences, to secure as they fan<g ref="char:EOLhyphen"/>cy, their Credit and Reputation.</hi>
+            </p>
+            <p>
+               <hi>To this I Answer.</hi>
+            </p>
+            <p>That there are indeed a sort of
+<pb n="28" facs="tcp:205209:14"/>strait laced <hi>Lessian</hi> Consciences, who under pretence of Religion, are ve<g ref="char:EOLhyphen"/>ry troublesom to Society. Who though upon occasion they can take their Christian Liberty in their own way, yet for the most part are very harsh and censorious of the lawful Freedoms of others.</p>
+            <p>In opposition to these Pretenders, I must thus far vindicate Religion; That a Man may be civil and obli<g ref="char:EOLhyphen"/>ging, without being Prophane; and he may so far comply with an in<g ref="char:EOLhyphen"/>nocent Custom; that hemay law<g ref="char:EOLhyphen"/>fully Drink a Health without re<g ref="char:EOLhyphen"/>nouncing his Christianity.</p>
+            <p>But having made this Concession. I must with a faithfulness becoming my Profession here freely declare, That though a Glass of Wine, or any other Liquor, is not the worse; nor doth it less contribute to Health and Digestion, because at the same time that a Man drinks it, he wisheth health and happiness to another Per<g ref="char:EOLhyphen"/>son. I say,</p>
+            <p>Though thus far the Drinking of Healths is an innocent Diversion and may be lawfully complied with; yet this Custom of Drinking Healths,
+<pb n="29" facs="tcp:205209:14"/>as it is too often abused, is not only rude and undecent, but even a Bar<g ref="char:EOLhyphen"/>barous and Destructive Practice.</p>
+            <p>As every May hath Dominion over himself, and with submission to Authority, hath the Government of his own Actions; so likewise every man best knows his own Temper and Constitution; and accordingly go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erns his Appetite in Eating and Drinking. Hence we have a noted Proverb. <hi>Every Man is his own Phy<g ref="char:EOLhyphen"/>sitian, or something else.</hi> 'Tis therefore,</p>
+            <p n="1">1. No small rudeness, to Tax a<g ref="char:EOLhyphen"/>nother man at your own Rate, and to prescribe your measures to him.</p>
+            <p>To quarrel with your Friend, be<g ref="char:EOLhyphen"/>cause he resuseth to Drink your Proportion, is not only irrational but childish. 'Tis to be angry that there is difference in Measures. And 'tis just as wise a Thing; as if a man should be out of humour, because a a <hi>Firkin</hi> is not as big as a <hi>Hogshead.</hi>
+            </p>
+            <p>But besides the rudeness of for<g ref="char:EOLhyphen"/>cing these Healths. 'Tis,</p>
+            <p n="2">2. Very dangerous and destructive to the Person who accepts them.</p>
+            <p>Should any one present you with a Dose of Poyson; and should con<g ref="char:EOLhyphen"/>fidently
+<pb n="30" facs="tcp:205209:15"/>enjoyn you, <hi>Drink this Cup to the Health and Prosperity of such a Person.</hi> What Answer would you make to such a Proposal?</p>
+            <p>If it shall be replyed; The Case is not the same; for <hi>Wine</hi> is not Poy<g ref="char:EOLhyphen"/>son.</p>
+            <p>In Answer I tell you; and the a<g ref="char:EOLhyphen"/>blest Physitians will tell you; That Wine, if immoderately taken, is that very Poyson, which, though it de<g ref="char:EOLhyphen"/>stroys not immediately, yet kills as sure as the rankest Dose that was ever presented by <hi>Italian</hi> Hand.</p>
+            <p>Besides; it not only poysons the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody, but also the precious and im<g ref="char:EOLhyphen"/>mortal Soul, by extinguishing all vertuous inclinations; exposing a man to the Commission of those Ex<g ref="char:EOLhyphen"/>travagancies, which a moralized Hea<g ref="char:EOLhyphen"/>then would even startle but to think on. It puts a man out of his own keeping and possession; Nay it puts him out of Gods keeping and pro<g ref="char:EOLhyphen"/>tection; and delivers him over to the power and conduct of Satan.</p>
+            <p>This being the true state of the Case; and immoderate drinking being thus threatned with Eternal Damnation, 'tis very easie to resolve
+<pb n="31" facs="tcp:205209:15"/>how far you ought to be affected on such an occasion, To conclude.</p>
+            <p>Here you are solicited to bear your share in a Debauch. If you refuse, you are then exposed to the flouts and jeers of the Company, who will not only accuse you of unkindness to <hi>them,</hi> but also of rudeness and dis<g ref="char:EOLhyphen"/>respect to such and such <hi>Persons,</hi> whose <hi>Healths</hi> you shall refuse.</p>
+            <p>If you <hi>accept,</hi> and are <hi>Hector'd</hi> or <hi>Wheedl'd</hi> into a <hi>compliance;</hi> then the same <hi>Tyrannical Power</hi> will continue the <hi>imposition;</hi> and so <hi>Health</hi> after <hi>Health,</hi> so long as there is either <hi>Wine</hi> to <hi>Drink,</hi> or <hi>Brains</hi> to bear it.</p>
+            <p>But in such a <hi>Case;</hi> if neither <hi>Rail<g ref="char:EOLhyphen"/>lery,</hi> nor <hi>Contrivance</hi> can relieve you; then let the <hi>sense</hi> of <hi>God</hi> and of your <hi>Duty</hi> restrain you. <hi>Fear not,</hi> regard not <hi>them which can kill the</hi> Body; <hi>but fear him which can cast both</hi> Body <hi>and</hi> Soul <hi>into Hell.</hi> Remember, That <hi>Drunkards shall not inherit the King<g ref="char:EOLhyphen"/>dom of God,</hi> and then resolve me, <hi>Whether it is not better to be Clownish<g ref="char:EOLhyphen"/>ly sober, then fashionably Damned?</hi>
+            </p>
+         </div>
+         <div type="discourse">
+            <pb n="32" facs="tcp:205209:16"/>
+            <head>A DISCOURSE AGAINST <hi>Swearing</hi> and <hi>Cursing.</hi>
+            </head>
+            <p>PUrsuant to the Royal Com<g ref="char:EOLhyphen"/>mand, I lately Published a short Treatise against <hi>Drun<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nness.</hi> Wherein I endeavoured to Convince those Debauched Persons, of the <hi>Rudeness</hi> and <hi>Danger</hi> of such Excess. And shall now proceed, through Divine Assistance, against another Extravagance mentioned in the King's Letter, <hi>viz.</hi> The Sin of <hi>Swearing</hi> and <hi>Cursing.</hi> Or, as the Act of Parliament calls it, <hi>Profane Swearing</hi> and <hi>Cursing.</hi>
+            </p>
+            <p>Against which Extravagant Pra<g ref="char:EOLhyphen"/>ctice, I shall with the greatest plain<g ref="char:EOLhyphen"/>ness Admonish you; from these <hi>Three</hi> Topicks</p>
+            <pb n="33" facs="tcp:205209:16"/>
+            <p> Profane <hi>Swearing</hi> and <hi>Cursing</hi> is,
+<list>
+                  <item>1. <hi>Rude</hi> and <hi>Boisterous,</hi> in respect of <hi>Men.</hi>
+                  </item>
+                  <item>2. <hi>Daring</hi> and <hi>Provoking,</hi> in re<g ref="char:EOLhyphen"/>spect of <hi>God.</hi>
+                  </item>
+                  <item>3. <hi>Vain</hi> and <hi>Vnprofitable,</hi> with re<g ref="char:EOLhyphen"/>spect to your <hi>Sevles.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1, <hi>Rude</hi> and <hi>Boisterous.</hi>
+            </p>
+            <p>The necessity of enforcing this Topick, doth hence appear. Pro<g ref="char:EOLhyphen"/>fane Swearers are of <hi>Two</hi> Ranks and Capacities. Some believe a God, and a Providence, and are convin<g ref="char:EOLhyphen"/>ced of the Nature of Sin, and its De<g ref="char:EOLhyphen"/>merits, and acknowledg the Diffe<g ref="char:EOLhyphen"/>rence betwixt Good and Evil. With these I shall discourse, and I hope effectually, from all the <hi>Three</hi> To<g ref="char:EOLhyphen"/>picks.</p>
+            <p>But there is another Set of Swear<g ref="char:EOLhyphen"/>ers, who deny a God, or Dispute his Providence, and disown all Diffe<g ref="char:EOLhyphen"/>rence betwixt Good and Evil: These must be Treated in a different Me<g ref="char:EOLhyphen"/>thod.</p>
+            <p>For, Tell these Men, how dange<g ref="char:EOLhyphen"/>rous it is to affront Almighty God; to provoke his Soveraign Justice;
+<pb n="34" facs="tcp:205209:17"/>and they pity your Ignorance, and laugh at your Caution. 'Tis to the same effect, as if you did advise them not to affront King <hi>Oberon,</hi> or some <hi>Fairy</hi> Monarch.</p>
+            <p>Tell them further, that this Swear<g ref="char:EOLhyphen"/>ing and Cursing is not only a Sin, but that it is vain, and unprofitable; and you raise the witty Gentlemens Fancy, to talk thus to <hi>them,</hi> of a black ugly thing called Sin; which by Men of their Sagacity, was never <hi>Seen, Felt, Heard</hi> nor <hi>Understood.</hi>
+            </p>
+            <p>Now since all Men must be con<g ref="char:EOLhyphen"/>vinced from such Principles as they themselves do acknowledg; whilst I talk with these Rampant Atheisti<g ref="char:EOLhyphen"/>cal Swearers, I can only treat them from my <hi>First</hi> 'Topick, <hi>viz.</hi> That this Profane Swearing and cursing, is a very Rude and Boistrous Pra<g ref="char:EOLhyphen"/>ctice.</p>
+            <p>And this, I hope, when duly con<g ref="char:EOLhyphen"/>sider'd, may have some influence upon them.</p>
+            <p>For though they commonly pre<g ref="char:EOLunhyphen"/>tend not to believe any future State, or to take the least notice of <hi>ano<g ref="char:EOLhyphen"/>ther</hi> World; yet they are mightily concerned for their Entertainment
+<pb n="35" facs="tcp:205209:17"/>in <hi>this.</hi> To Eat and Drink well; To gratifie their Senses in some o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Expectations; To have healthful and vigorous bodies: but chiefly to have kind and agreeable Society, to give a relish to their other Enjoy<g ref="char:EOLhyphen"/>ments: This is the only Happiness such Men can expect. And there<g ref="char:EOLhyphen"/>fore to do any thing which may Dis<g ref="char:EOLhyphen"/>courage their Conversation, is to be a Contradiction to themselves, and to Act inconsistently with their own Principles.</p>
+            <p>Now there is no Character which these Atheistical Swearers do more affect; then to be thought Gentile, Courteous and Obliging: To be Brisk, Pleasant, and Endearing So<g ref="char:EOLhyphen"/>ciety; grateful and accepted in all Companies.</p>
+            <p>And therefore to be censured as Dull, to be shun'd as Impertinent, to be avoided as Rude, to be abhor<g ref="char:EOLhyphen"/>red as Profane; is the most Morti<g ref="char:EOLhyphen"/>fying Circumstance that can befall them. Which yet, when things are fairly stated, is undeniably their C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se.</p>
+            <p>There is no greater instance of rudeness, then to speak contemptu<g ref="char:EOLhyphen"/>ously
+<pb n="36" facs="tcp:205209:18"/>of any Person in the presence of his Friend. Such a slighting Re<g ref="char:EOLhyphen"/>flection is not only Clownish and Ungentile; but most exasperating and provoking. For there is a de<g ref="char:EOLhyphen"/>cency to be observed in Conversati<g ref="char:EOLhyphen"/>on, and a Reverence and Respect to be paid to all Companies. So that Men of Gentile Behaviour, will be very sparing of their Censures on such occasion: As having experien<g ref="char:EOLhyphen"/>ced that such rambling prattle, spoils innocent Mirth, damps and disorders all Ingenuous Society.</p>
+            <p>Indeed the generality of Men are either so dull or so prudent; as not to disturb both themselves and o<g ref="char:EOLhyphen"/>thers, for every impertinent Droll.</p>
+            <p>But he must needs be a Man of a very cold Constitution, who can sit tame and unconcerned, whilst his <hi>Prince,</hi> his <hi>Parent,</hi> his <hi>Patron,</hi> and <hi>Benefactor</hi> shall be Reviled and As<g ref="char:EOLhyphen"/>persed. And yet this very affront is offered in all Companies, by these Hectoring Dammers, and Cursing Swearers.</p>
+            <p>Almighty God is the Supream So<g ref="char:EOLhyphen"/>veraign of all the World. <hi>The King of Kings, and Lord of Lords.</hi> He is
+<pb n="37" facs="tcp:205209:18"/>the Universal Parent of all Mankind, <hi>For we are also his Off-spring. For in him we live, and move, and have our Being.</hi> He is undeniably the best <hi>Patron,</hi> the most Bountiful <hi>benefa<g ref="char:EOLhyphen"/>ctor,</hi> and the surest <hi>Friend.</hi>
+            </p>
+            <p>And can those who are thus rela<g ref="char:EOLhyphen"/>ted to him, in these Capacities, sit tame and unconcerned, whilst they hear him affronted? Will it not raise a just regret; yea, an Horror and Detestation, to hear that dread<g ref="char:EOLhyphen"/>ful Name, before which Angels Bow, and Devils Tremble, thus tost in sport by Apes and Buffoons? Will it not circulate their Blood, and put it into a Ferment, to observe such Soveraign Greatness, such Transcen<g ref="char:EOLhyphen"/>dent Worth and Goodness, not on<g ref="char:EOLhyphen"/>ly Contemned and Despised, but al<g ref="char:EOLhyphen"/>so treated with such Rudeness, as to be even Ridiculed and Burlesqued?</p>
+            <p>Consider this, O ye Damming Swearers, and learn to be more Mo<g ref="char:EOLhyphen"/>dest and Reserved.</p>
+            <p>If Religion hath no influence up<g ref="char:EOLhyphen"/>on you; if the Laws of God shall not confine you; then let the Laws of Decency, and a just Reverence for Mankind in some measure Re<g ref="char:EOLhyphen"/>strain
+<pb n="38" facs="tcp:205209:19"/>you. If you will not be Chri<g ref="char:EOLhyphen"/>stians, yet show your selves Men. And give that Respect to Conver<g ref="char:EOLhyphen"/>sation, as not to Scoff and Deride those Persons or Things, which the rest of the Company may value and esteem.</p>
+            <p>Forbear therefore this Horrid <hi>Cursing;</hi> Refrain from this dismal <hi>Swearing;</hi> at which all sober Chri<g ref="char:EOLhyphen"/>stians, who have any Reverence for the Great Name of God, are so justly offended.</p>
+            <p n="2">2. Profane Swearing and Cursing is <hi>Daring</hi> and <hi>Provoking</hi> to Almigh<g ref="char:EOLhyphen"/>ty God.</p>
+            <p>Which Topick I hope will be very effectual to every one who calls him<g ref="char:EOLhyphen"/>self a Christian.</p>
+            <p>For though an Atheistical Wretch can laugh at such Caution, and is no more moved at the Terrors of the Lord, than a valiant General at the Troops of <hi>Almanzor:</hi> Yet he who really believes that there is a God; and who is likewise convinced, that this just and powerful God will bring him to Judgment; doubtless such a Person will have very different Ap<g ref="char:EOLhyphen"/>prehensions.</p>
+            <pb n="39" facs="tcp:205209:19"/>
+            <p> He who is instructed from the Holy Scripture; That our God is the <hi>God of Gods, and Lord of Lords. A great God Mighty and Terrible.</hi> That <hi>He ruleth over all the Kingdoms of the Earth; in whose hands there is Power and Might, so that none is able to withstand him. He is Wise in Heart, and Mighty in Strength, who hath hardned himself against him, and hath prosper'd? The only True and Living God, the Everlasting King, at whose Wrath the Earth doth tremble, and the Nations are not able to abide his Indig<g ref="char:EOLhyphen"/>nation. At whose dreadful appearance, the Kings of the Earth, and the Great Men, and the Rich Men, and the chief Captains, and the Mighty Men shall hide themselves in the Dens, and in the Rocks of the Mountains: Crying to the Mountains and Rocks; Fall on us and hide us from the Face of him that sitteth upon the Throne, and from the Wrath of the Lamb. For the great Day of his Wrath is come, and who shall be able to stand? For our God is a Con<g ref="char:EOLhyphen"/>suming Fire, and who can dwell with Everlasting Burnings?</hi>
+            </p>
+            <p>I say, He who is thus instructed (as all Christians are supposed to be)
+<pb n="40" facs="tcp:205209:20"/>he will sensibly be affected with the Admonition of our Blessed Saviour; <hi>Fear him, which after he hath kill'd, hath power to cast into Hell; yea I say unto you, Fear him.</hi>
+            </p>
+            <p>'Tis a known instance of Worldly Policy; To take heed of provoking Kings and Princes; For <hi>Kings have long Hands.</hi> Why are you not there<g ref="char:EOLhyphen"/>fore much more cautious, not to af<g ref="char:EOLhyphen"/>front Almighty God, whose <hi>right Hand</hi> can reach you where ever you are: And who is as jealous of his Honour, as any Earthly Prince can be.</p>
+            <p>Now suppose some Contemptible Varlet, should have the Impudence to rush into the Presence of a King; and should there to his face call him a <hi>Tyrant,</hi> and a <hi>Coward</hi> and bid him <hi>Hang him if he durst.</hi> Would not the insolence of such a Fellow find a speedy Confutation?</p>
+            <p>What shall we then think of those, who not only Blaspheme, and Pol<g ref="char:EOLhyphen"/>lute the great Name of God by their cursed Oaths; but even Vilifie him to his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace: whilst in a most daring insulting manner, they invocate that dreadful Majesty, to <hi>Judge</hi> and to
+<pb n="41" facs="tcp:205209:20"/>
+               <hi>Damn</hi> them. <hi>God Judge me. God Damn me.</hi> What amazing astonish<g ref="char:EOLhyphen"/>ing Language is this? Who doth not tremble, even but to repeat it? Thus to challenge the Almighty, and dare him to do his worst, is a strange Provocation.</p>
+            <p>I will not pretend to Confute, but shall rather pitty these poor Crea<g ref="char:EOLhyphen"/>tures; whilst I thus calmly Expostu<g ref="char:EOLhyphen"/>late with them.</p>
+            <p>You call upon God to <hi>Judge you.</hi>
+            </p>
+            <p>But why so forward and pressing? Are you afraid, lest God should for<g ref="char:EOLhyphen"/>get to Judge you, that you so often remind him of it Know therefore, that God will certainly Judge you, whether you call upon him to do it, or no. <hi>For he hath appointed a day in which he will judge the World;</hi> i. e. the whole Race of Mankind. And he will then bring <hi>you</hi> to Judgment amongst the rest. 'Tis not your He<g ref="char:EOLhyphen"/>ctoring and your Confidence will exempt you from it. <hi>Behold, the Lord cometh with ten Thousands of his Saints, to execute Judgment upon all, and to convince all that are ungodly a<g ref="char:EOLhyphen"/>mong them, of all their ungodly deeds, which they have ungodly committed, and
+<pb n="42" facs="tcp:205209:21"/>of all their hard Speeches, which un<g ref="char:EOLhyphen"/>godly Sinners have spoken against him, Jude</hi> 14.15. All those proud swell<g ref="char:EOLhyphen"/>ing Words, those blustring Oaths, those direful Execrations, of which at any time you have or shall be guilty: All these, without a serious Repentance, must then very sadly be accounted for.</p>
+            <p>Again. You call upon God to <hi>Dama you;</hi> But what a strange Sur<g ref="char:EOLhyphen"/>prizing instance of Spiritual Fren<g ref="char:EOLhyphen"/>zy is this? Is it not sufficient that God shall Judge you, unless he like<g ref="char:EOLhyphen"/>wise Dama you? Do you know what it is to be Damned, to groan under the Wrath of an incensed God? I suppose you do not, at least you do not consider it: Otherwise that sad dismal Word, would make you Tremble. I'le therefore in Charity, remind you what it is; and I will tell you from his Mouth, who is to be your Judge. <hi>Depart from me ye Cursed, into everlasting Fire, prepared for the Devil and his Angels. Mat.</hi> 25.41. This it is to be dam<g ref="char:EOLhyphen"/>ned. It is to be disowned and reject<g ref="char:EOLhyphen"/>ed by our blessed Saviour; and by a sad Sentence of Condemnation, to
+<pb n="43" facs="tcp:205209:21"/>be thrown into a Lake of Fire, a<g ref="char:EOLhyphen"/>mongst the Devils and Infernal Fiends; those implacable Tormen<g ref="char:EOLhyphen"/>tors.</p>
+            <p>Being thus faithfully Admonish<g ref="char:EOLhyphen"/>ed; Do you now think it so slight a thing to be damned? Is this a Word to be so Loudly, so Trium<g ref="char:EOLhyphen"/>phantly pronounced, with such a bold and insulting Accent?</p>
+            <p>Know then, for your Conviction, that as brisk and daring as you are now; the Sight of your Judge, and the Terror of his Appearance, will soften your Cadence, and change your Tone. You will not then huff and rant, and look big; but even cring and fawn for Mercy; and in the most submissive posture of Sup<g ref="char:EOLhyphen"/>pliants, will deprecate that damna<g ref="char:EOLhyphen"/>tion, which now you are not afraid to challenge and demand.</p>
+            <p>Take heed therefore of provoking a <hi>jealous God; who will not hold him guiltless;</hi> but will severely pu<g ref="char:EOLhyphen"/>nish him, <hi>that taketh his Name in vain.</hi>
+            </p>
+            <p>And to awaken your Caution, consider the force and severity of his Punishment.</p>
+            <pb n="44" facs="tcp:205209:22"/>
+            <p> Do you know <hi>the Power of his Wrath?</hi> the Strength of an Omni<g ref="char:EOLhyphen"/>potent Arm? Are you able to <hi>stand in his sight, when once he is Angry?</hi>
+            </p>
+            <p>You Swearers pretend indeed to be Men of great Assurance and Courage. But let me tell you, 'Tis a strange Instance of Assurance, <hi>To Challenge your▪ King; an provoke your Judge.</hi>
+            </p>
+            <p n="3">3. Profane Swearing and Cur<g ref="char:EOLhyphen"/>sing is <hi>Vain</hi> and <hi>Ʋnprofitable.</hi>
+            </p>
+            <p>Indeed all <hi>Sin,</hi> even that which is most gainful and advantagious, is vain and unprofitable, as it relates to another World. <hi>What fruit had ye then in those Things whereof ye are now ashamed? for the end of those things is death,</hi> Rom. 6.21. <hi>i.e.</hi> shame and death are the noted conclusion of a vicious extra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agant Life. <hi>What shall it profit a Man, if he shall gain the whole World, and lose his own Soul?</hi> Mark 8.36. <hi>i.e.</hi> should a Man expose his Soul to endless Torment; upon condition, that he might enjoy all the Pleasures and Sa<g ref="char:EOLhyphen"/>tisfactions, which this World can af<g ref="char:EOLhyphen"/>ford; he would make a very vain and</p>
+            <pb n="45" facs="tcp:205209:22"/>
+            <p> When therefore I affirm, Swear<g ref="char:EOLhyphen"/>ing and Cursing to be vain and un<g ref="char:EOLhyphen"/>profitable; I mean it is such in re<g ref="char:EOLhyphen"/>spect even of this World, and the Concerns of this present Life.</p>
+            <p>For your Conviction, I am to re<g ref="char:EOLhyphen"/>mind you (in the Words of St. <hi>John</hi>) <hi>All that is in the World, is the Lust of the Flesh, the Lust of the Eyes, and the Pride of Life.</hi> 1 John 2.16. i.e. What<g ref="char:EOLhyphen"/>ever a Man can expect, or desire in this World, is either Honour, Riches or Pleasures.</p>
+            <p>Now Swearing and Cursing, are very vain and unprofitable in all these Instances.</p>
+            <p n="1">1. As to <hi>Honour.</hi> The truth is (for 'tis too publick to be denied) some Honourable Persons are guilty of this Sin. But yet I hope I shall not need to convince them; That this Extravagance of the Tongue, is no part of their Atchievement. No Man ever yet had a <hi>Patent</hi> gi<g ref="char:EOLhyphen"/>ven him; or was Created <hi>Noble</hi> for his skill in Swearing. Nor can any Reason be Suggested, how he should pretend to deserve it on this account; Since a <hi>Porter</hi> or a <hi>Carman</hi> shall out<g ref="char:EOLhyphen"/>swear a <hi>Lord.</hi>
+            </p>
+            <pb n="46" facs="tcp:205209:23"/>
+            <p> And indeed this Hectoring Swear<g ref="char:EOLhyphen"/>ing, is so far from being Honourable, or so much as Gentile; that 'tis the noted Language of the Tribe that wears Liveries. Those Modish He<g ref="char:EOLhyphen"/>roes; who Lace their Discourse, as well as their Robes.</p>
+            <p>Methinks therefore a Gentleman, who values himself upon his Birth and Education, should be ashamed of such a sordid and levelling Practice.</p>
+            <p n="2">2. As to <hi>Riches.</hi> This profane Swearing is as Unprofitable, as it is Dishonourable.</p>
+            <p>For, did ever any Man thus raise his Fortunes, or Swear himself into an Estate? Possibly some Infamous Wretch, who values his Soul no more then his Ears; may get some paultry reward, for nicking the Business (as we phrase it) and Clinching a Cause. But this is not the present Case. For no such Purchase is to be gained by this Rash, Hectoring and Occasional Swearing; but only by sol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mn Judi<g ref="char:EOLhyphen"/>cial Perjury, before a Court of Judi<g ref="char:EOLhyphen"/>cature. The which most Vile and A<g ref="char:EOLhyphen"/>bominable Sin of <hi>Perjury</hi> (most odi<g ref="char:EOLhyphen"/>ous to God, and destructive to Hu<g ref="char:EOLhyphen"/>man Society) cannot now Methodi<g ref="char:EOLhyphen"/>cally
+<pb n="47" facs="tcp:205209:23"/>be considered: But will more pertinently be the Subject of a di<g ref="char:EOLhyphen"/>stinct Discourse.</p>
+            <p n="3">3. As to <hi>Pleasure.</hi> There is no manner of Sensual Delight, or car<g ref="char:EOLhyphen"/>nal Satisfaction, such Language can pretend to. It gratifies no Sense. It one well expresseth it; <hi>Were I an Epicure, I would bate Swearing.</hi>
+            </p>
+            <p>In short. The only Honour or Profit, or Pleasure, this Hectoring Swearing can boast of, is this, <hi>viz.</hi> Publick Shame and Infamy; Pecu<g ref="char:EOLhyphen"/>niary Mulcts, or Corporal Punish<g ref="char:EOLhyphen"/>ment (where the Laws are execu<g ref="char:EOLhyphen"/>ted) in this World; And Eternal Damnation, without Repentance, in the next.</p>
+            <p>What Excuses then can be preten<g ref="char:EOLhyphen"/>ded, for so <hi>Rude</hi> and <hi>Boysterous,</hi> so <hi>Da<g ref="char:EOLhyphen"/>ring</hi> and <hi>Provoking,</hi> so <hi>Vain</hi> and <hi>Ʋn<g ref="char:EOLhyphen"/>profitable</hi> a Practice, as this Swearing and Cursing?</p>
+            <p n="1">1. To say, <hi>You were in Passion;</hi> is but to aggravate your Guilt. Be<g ref="char:EOLhyphen"/>cause you are affronted by your Fel<g ref="char:EOLhyphen"/>low-Creature, will you slie in the Face of God? This were to stab your Father, because your Enemy hath struck you.</p>
+            <p n="2">
+               <pb n="48" facs="tcp:205209:24"/> 2. To affirm, <hi>That unless you Swear you cannot other wis;e be Believed;</hi> is to proclaim your own Disgrace. Since an honest Mans Word, will be bet<g ref="char:EOLhyphen"/>ter then your Oath.</p>
+            <p n="3">3. If <hi>the loftiness of its Sound; and thence the graceful Accent and loudness of an Oath shall be pretended:</hi> Know then 'tis the very Language of Hell; Where will be noise with a Witness. There will be roaring, and howling, and cursing to all Eternity.</p>
+            <p>Consider this: O ye Cursing Swearers, and be Wise in time. <hi>Take heed to your Ways, that you offend not with your Tongue.</hi> If <hi>for every idle Word that Men shall speak,</hi> then doubt<g ref="char:EOLhyphen"/>less for every profane Oath, <hi>they shall give account thereof in the Day of Judgment. For by thy Words, thou shalt be justified, and by the Words, thou shalt be Condemned.</hi> Pray therefore with <hi>David.</hi>
+            </p>
+            <p>
+               <hi>Set a Watch, O Lord, before my Mouth, and keep the Door of my Lips.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:205209:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
